@@ -31,3 +31,12 @@ header div {
     text-align: center;
     width: 370px;
 }
+
+main {
+    background-color: #FFFFFF;
+    width: 85%;
+}
+
+main h1 {
+    margin: 100px;
+}
