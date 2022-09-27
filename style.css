@@ -9,3 +9,25 @@ h1,
 h2 {
   font-family: 'Playfair Display', serif;
 }
+
+body {
+    background-color: #FFEFEF;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+header img {
+    width: 400px;
+    align-self: center;
+}
+
+header div {
+    align-self: center;
+    text-align: center;
+    width: 370px;
+}
